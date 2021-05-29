@@ -13,7 +13,9 @@ End to end implementation and web interface of Machine Learning based Student Gr
   * [Technologies Used](#technologies-used)
   
 ## Introduction
-This system aims to predict student's grades using linear regression. The idea behind this analysis is to predict the marks of students by their studying hours. <br/>
+This Machine Learning system aims to predict student's grades using linear regression (supervised learning). 
+The idea behind this analysis is to accuratly predict a student's final grade by their studying hours.
+The algorithm takes 80% of the dataset for training and 20% for testing, before calculating the coefficients of its hypothesis function.<br/>
 
 ## Screenshot
 ![2](https://user-images.githubusercontent.com/58237064/120078165-f5513500-c062-11eb-83ed-ae05317c385d.JPG)
