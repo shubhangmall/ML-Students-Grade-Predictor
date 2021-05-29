@@ -18,8 +18,7 @@ End to end implementation and web interface of Machine Learning based Student Gr
 This system aims to predict student's grades using linear regression. The idea behind this analysis is to predict the marks of students by their studying hours. <br/>
 
 ## Screenshot
-  <br/><br/>
-[![2](https://user-images.githubusercontent.com/58237064/120078165-f5513500-c062-11eb-83ed-ae05317c385d.JPG)
+![2](https://user-images.githubusercontent.com/58237064/120078165-f5513500-c062-11eb-83ed-ae05317c385d.JPG)
 
 ## Overview of the Dataset
 ![4](https://user-images.githubusercontent.com/58237064/120078326-d1422380-c063-11eb-816e-55197024dd72.JPG)
